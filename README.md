@@ -22,7 +22,7 @@
 
 📢 **Speaking & Content Creation**
 - Actively sharing knowledge and experiences in software engineering.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/engmostafasoliman) 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mostafa-elsayed-690148195) 
 
 ---
 
@@ -49,8 +49,7 @@
 ---
 
 🤝 **Connect with Me**
-- Email: engmostafasoliman@gmail.com, devmostafasoliman@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/engmostafasoliman](https://www.linkedin.com/in/mostafa-elsayed-690148195/)) | 
+- Email: engmostafasoliman0@gmail.com, devmostafasoliman@gmail.com
+- [LinkedIn]([https://www.linkedin.com/in/mostafa-elsayed-690148195/])) 
 
----
 
