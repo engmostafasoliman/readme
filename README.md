@@ -50,6 +50,4 @@
 
 🤝 **Connect with Me**
 - Email: engmostafasoliman0@gmail.com, devmostafasoliman@gmail.com
-- [LinkedIn]([https://www.linkedin.com/in/mostafa-elsayed-690148195])) 
-
 
