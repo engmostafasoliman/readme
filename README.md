@@ -3,7 +3,7 @@
 </div>
 # 👋 Hi, I'm Mostafa Soliman
 
-**Computer Science Graduate & Flutter Developer**
+**Software Engineer & Flutter Developer**
 
 ---
 
